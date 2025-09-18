@@ -6,6 +6,8 @@
 ## git status; 檢查所有檔案的狀態
 ## git add .; 將所有檔案上傳到暫存區
 ## git add <檔案名稱>; 將檔案上傳至暫存區
+## git reset .; 將所有檔案從暫存區移出
+## git reset <檔案名稱>; 將檔案從暫存區移出
 ## git commit -m ""; 提交檔案 "提交訊息"
 ## git remote add origin <網址>; 需先執行 git init
 ## git <當前分支> -M <分支名稱>; 將當前分支改至另一分支
